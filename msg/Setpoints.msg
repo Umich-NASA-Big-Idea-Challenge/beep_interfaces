@@ -1,3 +1,4 @@
 float32 left_velocity
 float32 right_velocity
 float32 lean_angle
+float32 yaw
