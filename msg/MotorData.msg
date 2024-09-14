@@ -1,8 +1,8 @@
-float32 angle
-float32 velocity
-float32 acceleration
-float32 torque
-float32 bus_current
-float32 bus_voltage
-float32 q_current
-float32 q_voltage
+float64 angle
+float64 velocity
+float64 acceleration
+float64 torque
+float64 bus_current
+float64 bus_voltage
+float64 q_current
+float64 q_voltage
