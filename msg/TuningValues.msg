@@ -1,3 +1,3 @@
-float64 kp
-float64 ki
-float64 kd
+float64 tilt_kp
+float64 tilt_ki
+float64 tilt_kd
