@@ -13,6 +13,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MotorData.msg"
   "msg/TuningValues.msg"
   "msg/Setpoints.msg"
+  "msg/DutyPair.msg"
  )
 
 ament_package()
